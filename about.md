@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+I am computer security student. Currently in the process of getting my CEH and GSNA. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email](mailto:jrp494@gmail.com)
